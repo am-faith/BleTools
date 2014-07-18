@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp"
+    android:orientation="vertical" >
+	<TextView 
+	    android:layout_marginTop="15dp"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="18sp"
+	    android:text="如有任何疑问或问题欢迎大家一起交流，另外本人还承接蓝牙类app外包，android和ios都做。"
+	    />
+	<TextView 
+	    android:layout_marginTop="15dp"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="18sp"
+	    android:textColor="#FFAA0000"
+	    android:text="邮箱:am_faith@163.com"
+	    />
+	<TextView 
+	    android:layout_marginTop="15dp"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="18sp"
+	    android:textColor="#FFAA0000"
+	    android:text="QQ:412469748(请注明ble)"
+	    />	
+   
+</LinearLayout>
