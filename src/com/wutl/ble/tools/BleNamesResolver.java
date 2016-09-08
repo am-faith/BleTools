@@ -196,5 +196,7 @@ public class BleNamesResolver {
 		mHeartRateSensorLocation.put(Integer.valueOf(4), "Hand");
 		mHeartRateSensorLocation.put(Integer.valueOf(5), "Ear Lobe");
 		mHeartRateSensorLocation.put(Integer.valueOf(6), "Foot");
+
+		//add more uuid 
 	}
 }
